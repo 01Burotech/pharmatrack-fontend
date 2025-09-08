@@ -1,0 +1,83 @@
+{
+  "home": "Accueil",
+  "features": "Fonctionnalités",
+  "pricing": "Tarifs",
+  "testimonials": "Témoignages",
+  "contact": "Contact",
+  "signin": "Connexion",
+  "signup": "Créer un compte",
+  "dashboard": "Tableau de bord",
+  "getstart": "Se Lancer",
+  
+  "hero": {
+    "badge": "+ 500 professionnels de santé nous font confiance",
+    "title": "La santé connectée, simple et sécurisée",
+    "subtitle": "Pharmatrack connecte patients, médecins et pharmacies dans un écosystème fiable.",
+    "ctaStart": "Commencez maintenant",
+    "ctaDemo": "Voir la démo"
+  },
+  "stats": {
+    "patients": "Patients accompagnés",
+    "doctors": "Médecins connectés",
+    "pharmacies": "Pharmacies partenaires",
+    "countries": "Pays couverts"
+  },
+  "feature": {
+    "title": "Nos fonctionnalités",
+    "subtitle": "Tout ce dont vous avez besoin pour gérer vos soins de santé",
+    "f1": "Ordonnances numériques sécurisées",
+    "f2": "Suivi des traitements",
+    "f3": "Connexion patient-médecin-pharmacie",
+    "f4": "Support 24/7"
+  },
+  "pricings": {
+    "title": "Nos tarifs",
+    "subtitle": "Choisissez le plan qui correspond le mieux à vos besoins et à la taille de votre équipe.",
+    "free": "Gratuit",
+    "pro": "Pro",
+    "enterprise": "Entreprise",
+    "cta": "Choisir ce plan",
+    "features": {
+      "free": [
+        "Accès de base",
+        "Support limité",
+        "Ordonnances numériques"
+      ],
+      "pro": [
+        "Toutes les fonctionnalités",
+        "Support prioritaire",
+        "Analyses avancées"
+      ],
+      "enterprise": [
+        "Solutions sur mesure",
+        "Support dédié",
+        "Intégrations API"
+      ]
+    },
+    "popularBadge": "Populaire"
+  },
+  "testimonial": {
+    "title": "Ils nous font confiance",
+    "subtitle": "Découvrez pourquoi Pharmatrack change la vie des utilisateurs"
+  },
+  "cta": {
+    "title": "Prêt à transformer votre expérience santé ?",
+    "subtitle": "Avec Pharmatrack, simplifiez prescriptions, ordonnances et suivis médicaux.",
+    "button": "Démarrer aujourd'hui"
+  },
+  "contacts": {
+    "title": "Contactez-nous",
+    "subtitle": "Une question ? Notre équipe est disponible 24/7."
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "q1": "Pharmatrack est-il sécurisé ?",
+    "a1": "Oui, nous respectons les normes de conformité et de protection des données médicales.",
+    "q2": "Puis-je tester gratuitement ?",
+    "a2": "Oui, nous proposons un essai gratuit de 14 jours."
+  },
+  "footer": {
+    "rights": "© 2025 Pharmatrack. Tous droits réservés."
+  }
+}
+

@@ -1,0 +1,13 @@
+{
+  "navbar": {
+  "home": "Home",
+  "features": "Features",
+  "pricing": "Pricing",
+  "testimonials": "Testimonials",
+  "contact": "Contact",
+  "signin": "Sign In",
+  "signup": "Get Started",
+  "dashboard": "Dashboard",
+  "getstart": "Get Started"
+}
+}
