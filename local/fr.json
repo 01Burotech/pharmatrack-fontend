@@ -78,6 +78,34 @@
   },
   "footer": {
     "rights": "© 2025 Pharmatrack. Tous droits réservés."
+  },
+  "form": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "role": "Rôle",
+    "patient": "Patient",
+    "doctor": "Médecin",
+    "pharmacist": "Pharmacien",
+    "admin": "Admin"
+  },
+  "auth": {
+    "loginTitle": "Connexion",
+    "registerTitle": "Créer un compte",
+    "resetTitle": "Réinitialiser le mot de passe",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "resetPassword": "Envoyer un email de réinitialisation",
+    "resetSent": "Un email de réinitialisation a été envoyé."
+  },
+  "profile": {
+    "title": "Mon profil",
+    "displayName": "Nom complet",
+    "photoURL": "Photo (URL)",
+    "role": "Rôle",
+    "save": "Enregistrer les modifications",
+    "updated": "Profil mis à jour avec succès !"
   }
 }
 

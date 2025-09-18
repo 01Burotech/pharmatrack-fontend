@@ -1,5 +1,4 @@
 "use client";
-
 import React, {
   createContext,
   useContext,
@@ -8,7 +7,7 @@ import React, {
   useMemo,
   ReactNode,
 } from "react";
-import { auth, signInWithGoogle, signOutUser } from "../app/firebase";
+import { auth, signInWithGoogle, signOutUser } from "../lib/firebase";
 import { onAuthStateChanged, User as FirebaseUser } from "firebase/auth";
 import {
   getFirestore,
@@ -42,6 +41,7 @@ type AuthContextType = {
     password: string,
     role?: string
   ) => Promise<{ success: boolean; user: AppUser }>;
+  
   register: (userData: {
     firstName: string;
     lastName: string;
